@@ -24,3 +24,4 @@ Además, el repositorio debería tener la siguiente estructura:
 Iniciamos creando carpetas individuales en las que añadimos una explicación del porqué nos gusta la informática.
 También actualizamos el "alumnos.txt" con nuestros nombres individualmente en cada "commit" de cada alumno.
 
+Por último actualizamos el archivo "README.md" incluyendo una pequeña descripción, resumen y pasos a seguir durante la creación del repositorio, así como la estructura del mismo.
