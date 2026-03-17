@@ -10,7 +10,7 @@ además de realizar correctamente un commit y push al repositorio.
 Además, el repositorio debería tener la siguiente estructura:
 
 ~~~
-[-] #smr-ducks
+[-] smr-ducks
  |
  |- [-] Nombre de alumno
  |   |- archivodetexto.txt   <--- Archivo individual con una reflexión.
@@ -20,3 +20,7 @@ Además, el repositorio debería tener la siguiente estructura:
  |- alumnos.txt   <--- Archivo colectivo donde todos deben añadir su nombre.
  |- README.md   <--- Esta descripción de repositorio.
 ~~~
+
+Iniciamos creando carpetas individuales en las que añadimos una explicación del porqué nos gusta la informática.
+También actualizamos el "alumnos.txt" con nuestros nombres individualmente en cada "commit" de cada alumno.
+
